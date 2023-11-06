@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elithril/react-three-arjs.git"
+    "url": "git@github.com:elithril/react-three-arjs.git"
   },
   "keywords": [
     "react",
