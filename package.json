@@ -35,7 +35,7 @@
     "buffer": "^6.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "three": "^0.154.0"
+    "three": "^0.158.0"
   },
   "devDependencies": {
     "@ar-js-org/ar.js": "^3.4.5",
@@ -56,7 +56,7 @@
     "prettier": "^3.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "three": "^0.154.0"
+    "three": "^0.158.0"
   },
   "dependencies": {
     "react-use-measure": "^2.1.1"
